@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>votescore</name>
+   <tag></tag>
+   <elementGuidId>7ab847b1-c5e6-4adf-9e04-086fdfaa6941</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='page_body']/descendant::div[@class='choice_group'][${rowNo}]/descendant::div[${vote}]//label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='page_body']/descendant::div[@class='choice_group'][${rowNo}]/descendant::div[${vote}]//label</value>
+   </webElementProperties>
+</WebElementEntity>
